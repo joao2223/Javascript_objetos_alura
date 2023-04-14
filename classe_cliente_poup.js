@@ -26,6 +26,6 @@ class ClientePoupanca extends Cliente{
     }
 }
 
-const andre = new ClientePoupanca("André", "andre@email.com", "2121321", 100,100)
+const andrey = new ClientePoupanca("Andrey", "andre@email.com", "2121321", 100,100)
 
-console.log(andre)
+console.log(andrey)
